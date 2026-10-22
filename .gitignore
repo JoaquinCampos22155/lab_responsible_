@@ -1,0 +1,10 @@
+.worktrees/
+.venv/
+__pycache__/
+*.py[cod]
+*.tfstate
+*.tfstate.*
+.terraform/
+infra/.build/
+simulator/requests.csv
+*.zip
